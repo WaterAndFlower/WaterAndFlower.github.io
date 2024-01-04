@@ -1,4 +1,4 @@
-/*×Ô¶¨Òå±äÁ¿ÇøÓò*/
+/*ï¿½Ô¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/
 :root {
     --Masa-: 1px;
 }
@@ -40,7 +40,7 @@ code {
     color: #c02d76;
 }
 
-/*¼ÓÔØ½çÃæµÄCSSÑùÊ½*/
+/*ï¿½ï¿½ï¿½Ø½ï¿½ï¿½ï¿½ï¿½CSSï¿½ï¿½Ê½*/
 .loading-color {
     color: #4390e6;
 }
@@ -91,7 +91,7 @@ code {
     position: absolute;
     width: 100vw;
     height: 100vh;
-    background-image: url('../resources/pictures/Firm-Back.jpg');
+    background-image: url('../Resources/Pictures/Firm-Back.jpg');
 }
 
 /*Background - Move Color Picture*/
@@ -109,7 +109,7 @@ code {
         content: " ";
         width: 100%;
         height: 100%;
-        background-image: url('../resources/pictures/color-back.webp');
+        background-image: url('../Resources/Pictures/color-back.webp');
         background-position: center;
         background-size: cover;
         left: calc(100% - var(--blazor-load-percentage));
@@ -117,7 +117,7 @@ code {
     }
 
 
-/* ¼ÓÔØ½ø¶ÈÌõµÄÎÄµµ 
+/* ï¿½ï¿½ï¿½Ø½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Äµï¿½ 
     https://learn.microsoft.com/zh-cn/aspnet/core/blazor/fundamentals/startup?view=aspnetcore-8.0#startup-process-and-configuration
 */
 .loading-progress-text-pb {
@@ -149,7 +149,7 @@ code {
 }
 
 .ptext-clipped {
-    /* Ö¸¶¨Õâ¸öÌØÐ§µÄbackground-image */
+    /* Ö¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§ï¿½ï¿½background-image */
     background-size: cover;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
@@ -191,12 +191,12 @@ code {
     border-radius: 0.4rem !important;
 }
 
-/*¹Ì¶¨Í¼Æ¬±³¾°²»ÒÆ¶¯*/
+/*ï¿½Ì¶ï¿½Í¼Æ¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ¶ï¿½*/
 .p-image-attachment-fixed {
     background-attachment: fixed;
 }
 
-/*¾ÓÖÐ¶ÔÆëÈÝÆ÷*/
+/*ï¿½ï¿½ï¿½Ð¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/
 .p-center-align {
     width: 100%;
     display: flex;
@@ -205,14 +205,14 @@ code {
     flex-wrap: wrap;
 }
 
-/*±³¾°¸ßÁÁ*/
+/*ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/
 .high-light {
     background-color: #ffff0061;
 }
 
 
 /*
-    À©É¢ÑùÊ½
+    ï¿½ï¿½É¢ï¿½ï¿½Ê½
 */
 ::view-transition-old(root) {
     animation: none;
