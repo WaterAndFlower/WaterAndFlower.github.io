@@ -1,4 +1,4 @@
-/*ï¿½Ô¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/
+/*×Ô¶¨Òå±äÁ¿ÇøÓò*/
 :root {
     --Masa-: 1px;
 }
@@ -40,7 +40,7 @@ code {
     color: #c02d76;
 }
 
-/*ï¿½ï¿½ï¿½Ø½ï¿½ï¿½ï¿½ï¿½CSSï¿½ï¿½Ê½*/
+/*¼ÓÔØ½çÃæµÄCSSÑùÊ½*/
 .loading-color {
     color: #4390e6;
 }
@@ -117,7 +117,7 @@ code {
     }
 
 
-/* ï¿½ï¿½ï¿½Ø½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Äµï¿½ 
+/* ¼ÓÔØ½ø¶ÈÌõµÄÎÄµµ 
     https://learn.microsoft.com/zh-cn/aspnet/core/blazor/fundamentals/startup?view=aspnetcore-8.0#startup-process-and-configuration
 */
 .loading-progress-text-pb {
@@ -149,7 +149,7 @@ code {
 }
 
 .ptext-clipped {
-    /* Ö¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§ï¿½ï¿½background-image */
+    /* Ö¸¶¨Õâ¸öÌØÐ§µÄbackground-image */
     background-size: cover;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
@@ -191,12 +191,12 @@ code {
     border-radius: 0.4rem !important;
 }
 
-/*ï¿½Ì¶ï¿½Í¼Æ¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ¶ï¿½*/
+/*¹Ì¶¨Í¼Æ¬±³¾°²»ÒÆ¶¯*/
 .p-image-attachment-fixed {
     background-attachment: fixed;
 }
 
-/*ï¿½ï¿½ï¿½Ð¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/
+/*¾ÓÖÐ¶ÔÆëÈÝÆ÷*/
 .p-center-align {
     width: 100%;
     display: flex;
@@ -205,14 +205,14 @@ code {
     flex-wrap: wrap;
 }
 
-/*ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/
+/*±³¾°¸ßÁÁ*/
 .high-light {
     background-color: #ffff0061;
 }
 
 
 /*
-    ï¿½ï¿½É¢ï¿½ï¿½Ê½
+    À©É¢ÑùÊ½
 */
 ::view-transition-old(root) {
     animation: none;
